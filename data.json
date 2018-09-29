@@ -1,0 +1,50 @@
+[ 
+    { 
+        "airlineId": "1", 
+        "nameAirline": "American Airlines", 
+        "codeIataAirline": "AA", 
+        "iataPrefixAccounting": "1", 
+        "codeIcaoAirline": "AAL", 
+        "callsign": "AMERICAN", 
+        "type": "scheduled", 
+        "statusAirline": "active", 
+        "sizeAirline": "963", 
+        "ageFleet": "10.9", 
+        "founding": "1934", 
+        "codeHub": "DFW", 
+        "nameCountry": "United States", 
+        "codeIso2Country": "US" 
+    },
+    { 
+        "airlineId": "2", 
+        "nameAirline": "Indian Airlines", 
+        "codeIataAirline": "AA", 
+        "iataPrefixAccounting": "1", 
+        "codeIcaoAirline": "AAL", 
+        "callsign": "Indian", 
+        "type": "scheduled", 
+        "statusAirline": "active", 
+        "sizeAirline": "963", 
+        "ageFleet": "10.9", 
+        "founding": "1934", 
+        "codeHub": "DFW", 
+        "nameCountry": "India", 
+        "codeIso2Country": "IN" 
+    },
+    { 
+        "airlineId": "3", 
+        "nameAirline": " Airlines", 
+        "codeIataAirline": "AA", 
+        "iataPrefixAccounting": "1", 
+        "codeIcaoAirline": "AAL", 
+        "callsign": "Australia", 
+        "type": "scheduled", 
+        "statusAirline": "active", 
+        "sizeAirline": "963", 
+        "ageFleet": "10.9", 
+        "founding": "1934", 
+        "codeHub": "DFW", 
+        "nameCountry": "Australia", 
+        "codeIso2Country": "UK" 
+    }
+]
